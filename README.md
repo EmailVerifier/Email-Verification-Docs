@@ -30,7 +30,7 @@ sophisticated algorithm directly into your ERP, marketing application, web appli
 forms and email marketing solutions. Get real time and accurate email validation results
 with a simple request.
 
-## Request limits.......................................................................................................................................
+## Request limits......................................................................................................................
 
 The single verification API is limited to **60 requests per minute**. If you need to
 verify more frequently, use the bulk verification API endpoints.
@@ -39,7 +39,7 @@ The bulk (list) verification API is limited to **60 requests per minute**. You c
 up to **200,000 emails per request.**
 
 
-## Verify individual email.........................................................................................................................
+## Verify individual email.......................................................................................................................
 
 **/api/email**
 
@@ -129,7 +129,7 @@ Request format:
 - **Payment model (string)** - Current payment model
 
 
-## Verify a list of emails............................................................................................................................
+## Verify a list of emails......................................................................................................................
 
 **/api/lists/upload**
 
@@ -220,7 +220,7 @@ Request format:
     complete - List is verified.
 
 
-## Get all list info......................................................................................................................................
+## Get all list info........................................................................................................................
 
 **/api/lists/info**
 
@@ -282,7 +282,7 @@ Request format:
     complete - List is verified.
 
 
-## Get single list statistics.......................................................................................................................
+## Get single list statistics..................................................................................................................
 
 **/api/lists/stats/{listId}**
 
