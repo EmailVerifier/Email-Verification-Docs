@@ -10,17 +10,17 @@ You need an account on [EmailVerifier.com](https://emailverifier.com) and  an AP
 - [Single & Bulk Email Verification API](#single--bulk-email-verification-api)
 - [Request limits](#request-limits)
 - [Verify individual email](#verify-individual-email)
-- Get available credit balance
-- Verify a list of emails
-- Get single list info
-- Get all list info
-- Get single list statistics
-- Export all emails from the list grouped by primary/secondary results
-- Export valid emails from the list
-- Export risky emails from the list
-- Export invalid emails from the list
-- Export unknown emails from the list
-- General response codes
+- [Get available credit balance](#get-available-credit-balance  )
+- [Verify a list of emails](#verify-a-list-of-emails)
+- [Get single list info](#get-single-list-info)
+- [Get all list info](#get-all-list-info)
+- [Get single list statistics](#get-single-list-statistics)
+- [Export all emails from the list grouped by primary/secondary results](#export-all-emails-from-the-list-grouped-by-primarysecondary-results)
+- [Export valid emails from the list](#export-valid-emails-from-the-list)
+- [Export risky emails from the list](#export-risky-emails-from-the-list)
+- [Export invalid emails from the list](#export-invalid-emails-from-the-list)
+- [Export unknown emails from the list](#export-unknown-emails-from-the-list)
+- [General response codes](#general-response-codes)
 
 ## Single & Bulk Email Verification API
 
