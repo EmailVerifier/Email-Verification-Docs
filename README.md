@@ -7,7 +7,7 @@ You need an account on [EmailVerifier.com](https://emailverifier.com) and  an AP
 
 ## Table of Contents
 
-- [Single & Bulk Email Verification API](#Single%201%20&%201%20Bulk%201%20Email%201%20Verification%201%20API)
+- [Single & Bulk Email Verification API](#Single%20&%20Bulk%20Email%20Verification%20API)
 - Request limits
 - Verify individual email
 - Get available credit balance
