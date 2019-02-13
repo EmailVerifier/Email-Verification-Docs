@@ -7,7 +7,7 @@ You need an account on [EmailVerifier.com](https://emailverifier.com) and  an AP
 
 ## Table of Contents
 
-- [Single & Bulk Email Verification API](single-and-bulk-email-verification)
+- [Single & Bulk Email Verification API](#Single%201%20&%201%20Bulk%201%20Email%201%20Verification%201%20API)
 - Request limits
 - Verify individual email
 - Get available credit balance
@@ -22,7 +22,6 @@ You need an account on [EmailVerifier.com](https://emailverifier.com) and  an AP
 - Export unknown emails from the list
 - General response codes
 
-<a name="single-and-bulk-email-verification"></a>
 ## Single & Bulk Email Verification API
 
 With our Real-Time Email Verification and Validation API you can integrate our
